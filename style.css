@@ -1,0 +1,23 @@
+#printProduct {
+  margin-right: 5px;
+  background-color: #f8f8ff;
+}
+
+.priceNew {
+  color: red;
+}
+.save {
+  color: #228b22;
+}
+#header {
+  background-color: #f0f0f0;
+}
+#img-header {
+  background-image: url("3458152.jpeg");
+}
+#mainDiv {
+  margin-top: 15px;
+}
+#loremDiv {
+  margin-top: 40px;
+}
